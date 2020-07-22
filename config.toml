@@ -33,7 +33,7 @@ canonifyurls = true
 [author]
   name = "My Backyard"
   bio = "All things bright and beautiful, all creatures great and small; all things wise and wonderful, the Lord God made them all."
-  job = "Goodness, Truth, Beauty"
+  job = "O Lord, our Lord, how majestic is your name in all the earth!"
   location = "Canada"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   #gravatarEmail = "thibaud.lepretre@gmail.com"
