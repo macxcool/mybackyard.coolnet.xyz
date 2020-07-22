@@ -33,7 +33,7 @@ canonifyurls = true
 [author]
   name = "My Backyard"
   bio = "All things bright and beautiful, all creatures great and small; all things wise and wonderful, the Lord God made them all."
-  job = "Christian, Wife, Mother"
+  job = "Goodness, Truth, Beauty"
   location = "Canada"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   #gravatarEmail = "thibaud.lepretre@gmail.com"
@@ -186,20 +186,20 @@ canonifyurls = true
   # Comment and uncomment to enable or disable sharing options
   # If you wanna add a sharing option, read user documentation :
   # Tranquilpeak configuration > Theme configuration > sharing-options
-  [[params.sharingOptions]]
-    name = "Facebook"
-    icon = "fa-facebook-official"
-    url = "https://www.facebook.com/sharer/sharer.php?u=%s"
+  #[[params.sharingOptions]]
+  #  name = "Facebook"
+  #  icon = "fa-facebook-official"
+  #  url = "https://www.facebook.com/sharer/sharer.php?u=%s"
 
-  [[params.sharingOptions]]
-    name = "Twitter"
-    icon = "fa-twitter"
-    url = "https://twitter.com/intent/tweet?text=%s"
+  #[[params.sharingOptions]]
+  #  name = "Twitter"
+  #  icon = "fa-twitter"
+  #  url = "https://twitter.com/intent/tweet?text=%s"
 
-  [[params.sharingOptions]]
-    name = "Google+"
-    icon = "fa-google-plus"
-    url = "https://plus.google.com/share?url=%s"
+  #[[params.sharingOptions]]
+  #  name = "Google+"
+  #  icon = "fa-google-plus"
+  #  url = "https://plus.google.com/share?url=%s"
 
   [params.header.rightLink]
     class = ""
