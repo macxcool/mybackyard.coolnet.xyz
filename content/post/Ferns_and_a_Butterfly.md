@@ -9,11 +9,15 @@ tags:
 - Pool
 - Nature
 - Butterfly
+- Fern
+- Plants
 keywords:
 - Garden
 - Pool
 - Nature
 - Butterfly
+- Fern
+- Plants
 Comments: false
 #thumbnailImage: //example.com/image.jpg
 ---
@@ -26,16 +30,16 @@ Since we made the pond much bigger I ended up taking plants out of the existing 
 
 There was a narrow strip along the back of the pond that is in full shade all day. I thought that a few small ferns would be ideal. 
 
-![Christmas Fern](images/christmas-fern.jpg)
+![Christmas Fern](/images/christmas-fern.jpg)
 Isaac Coolen
 
-![Japanese Fern](images/japanese-fern.jpg)
+![Japanese Fern](/images/japanese-fern.jpg)
 Isaac Coolen
 
-![Autumn Fern](images/autumn-fern.jpg)
+![Autumn Fern](/images/autumn-fern.jpg)
 Isaac Coolen
 
-![Lady Fern](images/lady-fern.jpg)
+![Lady Fern](/images/lady-fern.jpg)
 Isaac Coolen
 
 
@@ -47,7 +51,7 @@ As I was floating around in the pool, admiring the gardens on either side, I spo
 
 I recently found out that while the males are always yellow and black, the females can be  yellow and black or black and blue. This lovely girl was black and blue. 
 
-![Tiger Swallowtail](images/tiger-swallowtail.jpg)
+![Tiger Swallowtail](/images/tiger-swallowtail.jpg)
 Isaac Coolen
 
 
