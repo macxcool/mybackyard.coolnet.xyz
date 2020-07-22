@@ -33,7 +33,7 @@ There was a narrow strip along the back of the pond that is in full shade all da
 ![Christmas Fern](/images/christmas-fern.jpg)
 Isaac Coolen
 
-![Japanese Fern](/images/japanese-fern.jpg)
+![Japanese Fern](/images/painted-fern.jpg)
 Isaac Coolen
 
 ![Autumn Fern](/images/autumn-fern.jpg)
