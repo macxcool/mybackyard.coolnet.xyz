@@ -31,16 +31,16 @@ Since we made the pond much bigger I ended up taking plants out of the existing 
 There was a narrow strip along the back of the pond that is in full shade all day. I thought that a few small ferns would be ideal. 
 
 ![Christmas Fern](/images/christmas-fern.jpg)
-Isaac Coolen
+Photo by Isaac Coolen
 
 ![Japanese Fern](/images/painted-fern.jpg)
-Isaac Coolen
+Photo by Isaac Coolen
 
 ![Autumn Fern](/images/autumn-fern.jpg)
-Isaac Coolen
+Photo by Isaac Coolen
 
 ![Lady Fern](/images/lady-fern.jpg)
-Isaac Coolen
+Photo by Isaac Coolen
 
 
 ## A Flying Visitor
@@ -52,7 +52,7 @@ As I was floating around in the pool, admiring the gardens on either side, I spo
 There is no colour difference between the sexes so I don't know if it was a male or female. It stayed on the flowers for quite a long time.
 
 ![White Admiral](/images/white-admiral.jpg)
-Isaac Coolen
+Photo by Isaac Coolen
 
 
 ## Close Encounters
