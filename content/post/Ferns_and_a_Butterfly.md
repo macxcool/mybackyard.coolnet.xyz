@@ -47,11 +47,11 @@ Isaac Coolen
 
 After planting the ferns I jumped in the pool to cool off. Today is not too hot but very humid. We were having a hard time breathing in our masks at Canadale. 
 
-As I was floating around in the pool, admiring the gardens on either side, I spotted the approach of a winged visitor. I have a pink Butterfly bush planted beside the pool and a female Eastern Tiger Swallowtail butterfly decided to come check it out. 
+As I was floating around in the pool, admiring the gardens on either side, I spotted the approach of a winged visitor. I have a pink Butterfly bush planted beside the pool and a White Admiral butterfly decided to come check it out. 
 
-I recently found out that while the males are always yellow and black, the females can be  yellow and black or black and blue. This lovely girl was black and blue. 
+There is no colour difference between the sexes so I don't know if it was a male or female. It stayed on the flowers for quite a long time.
 
-![Tiger Swallowtail](/images/tiger-swallowtail.jpg)
+![White Admiral](/images/white-admiral.jpg)
 Isaac Coolen
 
 
