@@ -82,7 +82,7 @@ Photo by Isaac Coolen
 
 I had a corn cob feeder years ago but lost it - actually it was kidnapped by  the squirrels! This is why I knew what needed to happen this time. In order to keep the squirrels from taking feeder, cob and all, I have to duct tape the handle of the feeder to the shephard's hook. The other trick they have is to push the feeder handle out of the way so that they can pull the cob back out and take off with it. To prevent this I have had to wrap a couple of pieces of wire across the opening where the cob goes in. 
 
-The lengths I go to to enjoy the birds in my backyard make me shake my head. I am in awe of the characteristics God has given the rodents. They are tenacious, driven, nimble, clever and bold. Their antics have caused me to curse and laugh, often in the same breath. I wonder what they'll have in store for me next?
+The lengths I go to to enjoy the birds in my backyard make me shake my head. I am in awe of the characteristics God has given the rodents. They are tenacious, driven, nimble, clever and bold. Their antics have caused me to rant and laugh, often in the same breath. I wonder what they'll have in store for me next?
 
 
 
