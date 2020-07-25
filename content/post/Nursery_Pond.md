@@ -9,7 +9,6 @@ tags:
 - fish
 - tadpoles
 - fry
-- squirrel
 - plants
 - frog
 keywords:
@@ -17,7 +16,6 @@ keywords:
 - fish
 - tadpoles
 - fry
-- squirrel
 - plants
 - frog
 comments: false
