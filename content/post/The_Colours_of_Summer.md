@@ -118,5 +118,10 @@ I have three coneflowers, which are a butterfly favourite. The all come up at th
 
 I have a lot of gardens around my house, as I've mentioned before, and yet there are still so many plants that I don't have! I go through the nursery and wonder if I can fit in a few more plants. They are always developing new varieties or hybridizing more exotic blooms so that they can survive our winters. Then there are all the tropical annuals and indoor plants. I love my gardens and I'm quite pleased with the way they look, for the most part, but I do wish I had a bare plot of earth to plant. Few things bring as much joy as planting a garden. 
 
+The following is a gallery of everything that is blooming in my gardens currently. Enjoy!
+
+
+
+
 
 
