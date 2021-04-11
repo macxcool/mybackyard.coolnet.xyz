@@ -24,8 +24,12 @@ collections:
         fields:
           - label: "Categories"
             name: "categories"
-            widget: "string"
-            default: "['cat','subcat']"
+            widget: "relation"
+            collection: "post"
+            search_fields: ["categories"]
+            value_field: "categories"
+            display_fields: ["categories"]
+            multiple: true
             hint: "Enter a category and a subcategory. See other posts for ideas"
           - label: "Tags"
             name: "tags"
