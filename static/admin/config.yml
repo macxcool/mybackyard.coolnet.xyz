@@ -2,7 +2,8 @@ backend:
   name: git-gateway
   branch: master
 
-media_folder: "images"
+media_folder: "static/images"
+public_folder: "/images"
 
 collections:
   - name: "blog"
@@ -14,6 +15,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, hint: "Leave 'true' until you want to publish."}
       - {label: "Thumbnail Image", name: "thumbnailImage", widget: "image", required: false, hint: "This is not necessary."}
       - {label: "Post Body", name: "body", widget: "markdown", default: "## Heading"}
       - label: "Categories"
