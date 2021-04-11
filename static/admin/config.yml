@@ -16,29 +16,22 @@ collections:
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Thumbnail Image", name: "thumbnailImage", widget: "image", required: false, hint: "This is not necessary."}
       - {label: "Post Body", name: "body", widget: "markdown", default: "## Heading"}
-      - label: "Categories, Tags and Keywords"
-        name: "categories_tags"
-        widget: "object"
-        collapsed: true
-        summary: "Pick and add Categories, Tags and Keywords"
-        fields:
-          - label: "Categories"
-            label_singular: "Category"
-            name: "categories"
-            widget: "list"
-            allow_add: true
-            hint: "Enter a category and a subcategory. See other posts for ideas"
-          - label: "Tags"
-            label_singular: "Tag"
-            name: "tags"
-            widget: "list"
-            hint: "Try to reuse tags from other posts, if possible"
-          - label: "Keywords"
-            label_singular: "Keyword"
-            name: "keywords"
-            widget: "list"
-            hint: "Just use the tags list as your keywords too."
-          - label: "Comments"
-            name: "comments"
-            widget: "hidden"
-            default: false
+      - label: "Categories"
+        label_singular: "Category"
+        name: "categories"
+        widget: "list"
+        hint: "Enter a category and a subcategory. See other posts for ideas"
+      - label: "Tags"
+        label_singular: "Tag"
+        name: "tags"
+        widget: "list"
+        hint: "Try to reuse tags from other posts, if possible"
+      - label: "Keywords"
+        label_singular: "Keyword"
+        name: "keywords"
+        widget: "list"
+        hint: "Just use the tags list as your keywords too."
+      - label: "Comments"
+        name: "comments"
+        widget: "hidden"
+        default: false
