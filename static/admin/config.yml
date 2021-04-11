@@ -27,15 +27,18 @@ collections:
             name: "categories"
             widget: "list"
             allow_add: true
-            #field: {label: "Categories", name: "categories", widget: "string"}
             hint: "Enter a category and a subcategory. See other posts for ideas"
           - label: "Tags"
+            label_singular: "Tag"
             name: "tags"
-            widget: "string"
-            default: "['tag1','tag2']"
+            widget: "list"
             hint: "Try to reuse tags from other posts, if possible"
           - label: "Keywords"
+            label_singular: "Keyword"
             name: "keywords"
-            widget: "string"
-            default: "['kwd1','kwd2']"
+            widget: "list"
             hint: "Just use the tags list as your keywords too."
+          - label: "Comments"
+            name: "comments"
+            widget: "hidden"
+            default: false
