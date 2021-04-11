@@ -7,6 +7,7 @@ media_folder: "images"
 collections:
   - name: "blog"
     label: "Blog"
+    label_singular: "Blog post"
     folder: "content/post"
     create: true
     slug: "{{slug}}"
@@ -24,15 +25,15 @@ collections:
           - label: "Categories"
             name: "categories"
             widget: "string"
-            default: ['cat','subcat']
+            default: "['cat','subcat']"
             hint: "Enter a category and a subcategory. See other posts for ideas"
           - label: "Tags"
             name: "tags"
             widget: "string"
-            default: ['tag1','tag2']
+            default: "['tag1','tag2']"
             hint: "Try to reuse tags from other posts, if possible"
           - label: "Keywords"
             name: "keywords"
             widget: "string"
-            default: ['kwd1','kwd2']
+            default: "['kwd1','kwd2']"
             hint: "Just use the tags list as your keywords too."
