@@ -20,18 +20,31 @@ collections:
         label_singular: "Category"
         name: "categories"
         widget: "list"
-        field: {label: "Category", name: "categories", widget: "string"}
+        field: {label: "Category", name: "categories", widget: "list"}
+        min: 2
+        max: 2
+        summary: "{{fields.categories}}"
+        collapsed: true
         allow_add: true
         hint: "Enter a category and a subcategory. See other posts for ideas"
       - label: "Tags"
         label_singular: "Tag"
         name: "tags"
         widget: "list"
+        field: {label: "Tag", name: "tags", widget: "list"}
+        summary: "{{fields.tags}}"
+        collapsed: true
+        allow_add: true
+        min: 1
         hint: "Try to reuse tags from other posts, if possible"
       - label: "Keywords"
         label_singular: "Keyword"
         name: "keywords"
         widget: "list"
+        field: {label: "Keyword", name: "keywords", widget: "list"}
+        collapsed: true
+        allow_add: true
+        summary: "{{fields.keywords}}"
         hint: "Just use the tags list as your keywords too."
       - label: "Comments"
         name: "comments"
