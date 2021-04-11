@@ -27,7 +27,7 @@ collections:
             name: "categories"
             widget: "list"
             allow_add: true
-            field: {label: "Categories", name: "categories", widget: "string"}
+            #field: {label: "Categories", name: "categories", widget: "string"}
             hint: "Enter a category and a subcategory. See other posts for ideas"
           - label: "Tags"
             name: "tags"
