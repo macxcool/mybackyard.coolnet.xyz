@@ -23,8 +23,11 @@ collections:
         summary: "Pick and add Categories, Tags and Keywords"
         fields:
           - label: "Categories"
+            label_singular: "Category"
             name: "categories"
             widget: "list"
+            allow_add: true
+            field: {label: "Categories", name: "categories", widget: "string"}
             hint: "Enter a category and a subcategory. See other posts for ideas"
           - label: "Tags"
             name: "tags"
