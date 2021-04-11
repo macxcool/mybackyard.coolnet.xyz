@@ -26,7 +26,7 @@ collections:
         summary: "{{fields.categories}}"
         collapsed: true
         #allow_add: true
-        hint: "Enter a category and a subcategory. See other posts for ideas"
+        hint: "Enter a category and a subcategory. See https://mybackyard.coolnet.xyz/categories"
       - label: "Tags"
         label_singular: "Tag"
         name: "tags"
@@ -36,7 +36,7 @@ collections:
         collapsed: true
         #allow_add: true
         min: 1
-        hint: "Try to reuse tags from other posts, if possible"
+        hint: "Try to reuse tags from other posts. See https://mybackyard.coolnet.xyz/tags"
       - label: "Keywords"
         label_singular: "Keyword"
         name: "keywords"
@@ -45,7 +45,7 @@ collections:
         collapsed: true
         #allow_add: true
         summary: "{{fields.keywords}}"
-        hint: "Just use the tags list as your keywords too."
+        hint: "Just use the tags list as your keywords too. Copy and paste."
       - label: "Comments"
         name: "comments"
         widget: "hidden"
