@@ -34,5 +34,5 @@ collections:
           - label: "Keywords"
             name: "keywords"
             widget: "string"
-            default: ['kwd1','kwd2'
+            default: ['kwd1','kwd2']
             hint: "Just use the tags list as your keywords too."
