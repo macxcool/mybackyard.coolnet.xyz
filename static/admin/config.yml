@@ -24,12 +24,7 @@ collections:
         fields:
           - label: "Categories"
             name: "categories"
-            widget: "relation"
-            collection: "post"
-            search_fields: ["categories"]
-            value_field: "categories"
-            display_fields: ["categories"]
-            multiple: true
+            widget: "list"
             hint: "Enter a category and a subcategory. See other posts for ideas"
           - label: "Tags"
             name: "tags"
