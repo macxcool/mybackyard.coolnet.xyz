@@ -20,6 +20,8 @@ collections:
         label_singular: "Category"
         name: "categories"
         widget: "list"
+        field: {label: "Category", name: "categories", widget: "string"}
+        allow_add: true
         hint: "Enter a category and a subcategory. See other posts for ideas"
       - label: "Tags"
         label_singular: "Tag"
